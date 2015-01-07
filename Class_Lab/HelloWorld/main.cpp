@@ -3,6 +3,7 @@
    Author: Jacob Hartman
    Created on January 6, 2015, 6:05 PM
    Purpose: To create my first program
+ I AM UP AT GITHUB NOW
  */
 
 //System Libraries
