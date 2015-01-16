@@ -3,7 +3,7 @@
    Author: Jacob Hartman
    Created on January 15, 2015, 6:48 PM
    Purpose: Gaddis, 7th Edition, Chapter 3, Problem 22
- * Title: Word Game?
+ * Title: Word Game
  */
 
 //System Libraries
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     string animal; //type of animal
     string nanimal; //name of the animal
     //Introduce the program to the user
-    cout<<"Hello! Welcome to the 'How many Cookies?' program!"<<endl;
+    cout<<"Hello! Welcome to the 'Word Game?' program!"<<endl;
     cout<<"Prompting for user input..."<<endl;
     cout<<"\n";
     //Prompt for input
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
             <<". At the age of "<<age<<", "<<name<<" went to college at "<<
             college<<". "<<name<<" graduated and went to work as a "<<job<<
             ". Then, "<<name<<" adopted a(n) "<<animal<<" named "<<nanimal<<"."
-            <<" They both lived happily ever after"<<endl;
+            <<" They both lived happily ever after."<<endl;
     //Exit Stage Right
     return 0;
 }

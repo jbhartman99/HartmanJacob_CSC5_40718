@@ -3,7 +3,7 @@
    Author: Jacob Hartman
    Created on January 15, 2015, 6:48 PM
    Purpose: Gaddis, 7th Edition, Chapter 3, Problem 22
- * Title: Word Game?
+ * Title: Word Game
  */
 
 //System Libraries
