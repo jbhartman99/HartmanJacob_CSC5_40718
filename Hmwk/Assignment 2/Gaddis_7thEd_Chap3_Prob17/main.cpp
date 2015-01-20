@@ -2,8 +2,8 @@
    File:   main.cpp
    Author: Jacob Hartman
    Created on January 15, 2015, 6:48 PM
-   Purpose: Gaddis, 7th Edition, Chapter 3, Problem 22
- * Title: Word Game
+   Purpose: Gaddis, 7th Edition, Chapter 3, Problem 17
+ * Title: Monthly Payments
  */
 
 //System Libraries
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     float PaidBak; //Amount Paid Back
     float IntPaid; //Interest Paid
     //Introduce the program to the user
-    cout<<"Hello! Welcome to the 'Word Game' program!"<<endl;
+    cout<<"Hello! Welcome to the 'Monthly Payments' program!"<<endl;
     cout<<"Prompting for user input..."<<endl;
     cout<<"\n";
     //Prompt for input

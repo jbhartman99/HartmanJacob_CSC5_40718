@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     cout<<"Prompting for user input..."<<endl;
     cout<<"\n";
     //Prompt for input
-    cout<<"What is your name? "<<endl;
+    cout<<"What is your first name? "<<endl;
     cin>>name;
     cout<<"\n";
     cout<<"What is your age? "<<endl;
